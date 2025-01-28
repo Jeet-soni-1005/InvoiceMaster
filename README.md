@@ -1,7 +1,3 @@
-Here’s a clean and simple README for your project:
-
----
-
 # InvoiceMaster: An Invoice Management API 🧾
 
 This is an Invoice Management API built with Node.js, Express, MongoDB, and JWT-based authentication. It allows users to register, log in, and manage invoices (CRUD operations).
